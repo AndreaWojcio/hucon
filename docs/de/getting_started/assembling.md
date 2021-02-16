@@ -1,6 +1,6 @@
 # Zusammenbau
 
-Normalerweise kommt dein HuCon als Bausatz zu dir nach Hause. Der Bausatz enthält die folgenden Komponenten:
+normalerweise kommt dein HuCon als Bausatz zu dir nach Hause. Der Bausatz enthält die folgenden Komponenten:
 
 1. Omega2+ von [Onion] (https://onion.io/)
 2. HuCon-Nutzen
